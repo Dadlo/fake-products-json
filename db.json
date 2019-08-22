@@ -51,106 +51,6 @@
       "imageUrl": "http://www.lorempixel.com/577/852"
     },
     {
-      "id": 210,
-      "name": "Molestias",
-      "price": 145,
-      "categoryId": 1,
-      "rate": 0.15,
-      "content": "Deserunt ad ducimus recusandae praesentium. Repudi",
-      "review": 95,
-      "imageUrl": "https://dummyimage.com/76x231"
-    },
-    {
-      "id": 211,
-      "name": "Modi",
-      "price": 228,
-      "categoryId": 1,
-      "rate": 2.94,
-      "content": "Iure similique perferendis quia optio provident as",
-      "review": 153,
-      "imageUrl": "https://dummyimage.com/400x350"
-    },
-    {
-      "id": 212,
-      "name": "Voluptatibus",
-      "price": 172,
-      "categoryId": 1,
-      "rate": 2.68,
-      "content": "Cum aperiam sapiente non magni sequi facere. Et ni",
-      "review": 29,
-      "imageUrl": "https://dummyimage.com/153x1011"
-    },
-    {
-      "id": 213,
-      "name": "Sapiente",
-      "price": 100,
-      "categoryId": 1,
-      "rate": 1.89,
-      "content": "Totam repudiandae assumenda facilis quod suscipit ",
-      "review": 200,
-      "imageUrl": "https://dummyimage.com/379x367"
-    },
-    {
-      "id": 214,
-      "name": "Alias",
-      "price": 152,
-      "categoryId": 1,
-      "rate": 0.17,
-      "content": "At non doloribus alias optio delectus sit. Aperiam",
-      "review": 68,
-      "imageUrl": "https://dummyimage.com/400x350"
-    },
-    {
-      "id": 215,
-      "name": "Non",
-      "price": 189,
-      "categoryId": 1,
-      "rate": 3.51,
-      "content": "Eligendi rem perspiciatis quas accusamus. Consequa",
-      "review": 86,
-      "imageUrl": "https://dummyimage.com/624x281"
-    },
-    {
-      "id": 216,
-      "name": "Quaerat",
-      "price": 280,
-      "categoryId": 1,
-      "rate": 0.81,
-      "content": "Nisi eos aspernatur exercitationem eius architecto",
-      "review": 135,
-      "imageUrl": "http://www.lorempixel.com/864/326"
-    },
-    {
-      "id": 217,
-      "name": "Odit",
-      "price": 238,
-      "categoryId": 1,
-      "rate": 2.35,
-      "content": "Beatae voluptatem soluta maxime non dignissimos. D",
-      "review": 186,
-      "imageUrl": "https://dummyimage.com/400x350"
-    },
-    {
-      "id": 218,
-      "name": "Quibusdam",
-      "price": 100,
-      "categoryId": 1,
-      "rate": 3.44,
-      "content": "Consectetur nihil inventore ut delectus. Soluta ei",
-      "review": 125,
-      "imageUrl": "https://dummyimage.com/400x350"
-    },
-    {
-      "id": 219,
-      "name": "Velit",
-      "price": 130,
-      "categoryId": 1,
-      "rate": 3.27,
-      "content": "Sint quibusdam ratione eos. Alias accusantium fugi",
-      "review": 125,
-      "imageUrl": "https://dummyimage.com/839x368"
-    },
-    {
       "id": 220,
       "name": "Soluta",
       "price": 109,
@@ -158,26 +58,6 @@
       "rate": 0.28,
       "content": "Quos accusamus distinctio voluptates ducimus neque",
       "review": 34,
-      "imageUrl": "https://dummyimage.com/400x350"
-    },
-    {
-      "id": 221,
-      "name": "Labore",
-      "price": 280,
-      "categoryId": 1,
-      "rate": 4.45,
-      "content": "Soluta mollitia consequuntur possimus autem fuga s",
-      "review": 151,
-      "imageUrl": "https://dummyimage.com/177x607"
-    },
-    {
-      "id": 222,
-      "name": "Odit",
-      "price": 283,
-      "categoryId": 1,
-      "rate": 0.73,
-      "content": "Provident tenetur amet fugiat molestias ducimus ma",
-      "review": 67,
       "imageUrl": "https://dummyimage.com/400x350"
     },
     {
