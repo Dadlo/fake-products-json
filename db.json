@@ -171,16 +171,6 @@
       "imageUrl": "https://dummyimage.com/698x680"
     },
     {
-      "id": 234,
-      "name": "Vero",
-      "price": 180,
-      "categoryId": 2,
-      "rate": 1.04,
-      "content": "Quae esse distinctio ex quos blanditiis corporis d",
-      "review": 120,
-      "imageUrl": "https://dummyimage.com/600x862"
-    },
-    {
       "id": 235,
       "name": "Facilis",
       "price": 130,
